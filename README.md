@@ -1,3 +1,3 @@
 # wiigle-search
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/wiigle.png)
 Format: ![Alt Text](url)
