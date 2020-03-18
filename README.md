@@ -1,4 +1,4 @@
 # wiigle-search
-![home_page](/wiigle.png) <!-- .element height="100px" width="200px" -->
+![home_page](/wiigle.png) <!-- .element height="50%" width="50%" -->
 ![suggestion page](/wiigle_suggestion.png)
 
