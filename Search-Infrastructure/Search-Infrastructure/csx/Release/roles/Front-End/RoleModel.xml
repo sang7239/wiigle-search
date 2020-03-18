@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Front-End" version="2.9.8699.20" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="Front-End.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5.1" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="Front-End" />
+    <Property name="ProjectName" value="Front-End" />
+    <Property name="Configuration" value="Release" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SetConfiguration" value="Configuration=Release" />
+    <Property name="SetPlatform" value="Platform=AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.5.1" />
+    <Property name="OutputDir" value="C:\Users\dejav\source\repos\Search-Infrastructure\Search-Infrastructure\obj\Release\Front-End\" />
+    <Property name="EntryPoint" value="Front-End.dll" />
+    <Property name="SourceDir" value="C:\Users\dejav\source\repos\Search-Infrastructure\Front-End\" />
+    <Property name="SitePhysicalPath" value="C:\Users\dejav\source\repos\Search-Infrastructure\Search-Infrastructure\obj\Release\Front-End\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="C:\Users\dejav\source\repos\Search-Infrastructure\Search-Infrastructure\obj\Release\Front-End\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>
