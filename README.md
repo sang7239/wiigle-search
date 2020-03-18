@@ -1,4 +1,4 @@
 # wiigle-search
-![GitHub Logo](/wiigle.png | width=48)
-![GitHub Logo](/wiigle_suggestion.png | width=48)
+![home_page](/wiigle.png)
+![suggestion page](/wiigle_suggestion.png)
 
